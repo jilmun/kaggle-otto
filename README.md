@@ -1,3 +1,3 @@
-# Otto Group Product Classification Challenge
+## Otto Group Product Classification Challenge
 
-## [Kaggle Link](https://www.kaggle.com/c/otto-group-product-classification-challenge) (2015) 
+### [Kaggle Link](https://www.kaggle.com/c/otto-group-product-classification-challenge) (2015) 
